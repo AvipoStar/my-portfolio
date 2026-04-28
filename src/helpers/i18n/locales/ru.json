@@ -1,0 +1,15 @@
+{
+  "nav": {
+    "fio": "Кирилл Федоров",
+    "home": "Главная",
+    "about": "Обо мне",
+    "education": "Образование",
+    "experience": "Опыт",
+    "projects": "Проекты",
+    "contacts": "Контакты"
+  },
+  "hero": {
+    "title": "Привет, я Кирилл",
+    "subtitle": "Full-stack разработчик"
+  }
+}

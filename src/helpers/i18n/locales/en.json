@@ -1,0 +1,16 @@
+{
+  "nav": {
+    "fio": "Kirill Fedorov",
+
+    "home": "Home",
+    "about": "About",
+    "education": "Education",
+    "experience": "Experience",
+    "projects": "Projects",
+    "contacts": "Contacts"
+  },
+  "hero": {
+    "title": "Hi, I'm Kirill",
+    "subtitle": "Full-stack developer"
+  }
+}
